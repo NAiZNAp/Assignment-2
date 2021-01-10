@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherIt</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <button onclick="window.location.href='feedback.html'">
+            <u>Feedback</u>
+        </button>
+        <center><h1>WeatherIt</h1></center>
+        <center><h2>Current Weather</h2></center>
+        <center>
+            <form class="find-the-weather">
+                <label for="location">Search for Weather</label>
+                <input type="text" name="location" class="form">
+            </form>
+        </center>
+
+        <div class="card">
+            <center><div class="details">
+                <h4 class="city">City Name</h4>
+                <div class="condition">Weather Condition</div>
+                <div class="Temperature">
+                    <span>Temperature</span>
+                    <span>&deg;C</span>
+                    <span>Temperature</span>
+                    <span>&deg;F</span>
+                </div>
+                <div class="rain"></div>
+            </div></center>
+            <img src="Pictures/background.jpg" alt="Background" title="Background">    
+        </div>
+    
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
