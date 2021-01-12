@@ -2,15 +2,16 @@
 
 <h1>Assignment 2</h1>
 This project I have chosen to do a weather application that will display the weather of any location the user enters. 
-Github published link: 
+Github published link: https://naiznap.github.io/Assignment-2/
 
 <h2>Design process</h2>
 Initially, I planned to have the app to be able to display multiple information including forecast and indices, however due to time limits and also I am unable to get the forecast part working, I decided to cut that part out to the current state. 
 
 Wireframe: https://xd.adobe.com/view/1f74c6a1-c93b-45d8-a191-69a0e4f8f5c2-4a27/
 
-Github page:
+Github page: https://github.com/NAiZNAp/Assignment-2
 
+Pitch video link: https://drive.google.com/file/d/1ajsdCevW8-Ket5vptcsENoGVELU48LjQ/view?usp=sharing
 
 <h2>Features</h2>
 <h3>Search function</h3>
